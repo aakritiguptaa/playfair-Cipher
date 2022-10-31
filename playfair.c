@@ -19,5 +19,7 @@ int main()
     printf("Enter the code to decrypt: ");
     // call decryption function
 
+    // display the results of cipher, encryption and decryption
+
     return 0;
 }
